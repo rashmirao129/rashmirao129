@@ -1,6 +1,6 @@
 ## Hi there! I'm Rashmi Rao 👋
 ### 📍Location
-  Bay Area, CA, US 
+  Bay Area, San Fransico, CA, US 
 ### 👩‍💻 About Me
   Nearly 3 years of experience in roles including Software Engineer at Philips and Software Developer 1 at Oracle Cerner specializing in Healthcare Informatics and System Integration in the IT industry (Philips Innovation Campus, Bengaluru and Oracle Cerner, Bengaluru). Experienced in healthcare informatics such as Rhapsody, Odin, OPENLink, HL7, FHIR, IntelliSpace PACS, CCL database querying, and skilled in programming languages like Python and Java. AWS, Cisco, Google, and Microsoft certifications in Advanced Networking, Data Analytics, AI & ML, and SQL.
 ### 🔧 My Tech Stack
