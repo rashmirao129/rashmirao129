@@ -104,6 +104,9 @@
 - Python Programming Fundamentals
 ##### Project Management
 - Project Management Fundamentals
+### 📫 Reach Out
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rashmi-rao-1692a023b/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:rashmirao129@gmail.com)
 <!--
 **rashmirao129/rashmirao129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
