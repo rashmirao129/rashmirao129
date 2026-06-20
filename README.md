@@ -6,7 +6,7 @@
 ### 🔧 My Tech Stack
 
 #### 🏥 Healthcare Informatics
-![HL7 Standards Health Level Seven](https://img.shields.io/badge/HL7-blue?style=flat)
+![HL7](https://img.shields.io/badge/HL7-blue?style=flat)
 ![FHIR](https://img.shields.io/badge/FHIR-green?style=flat)
 ![OPENLink](https://img.shields.io/badge/OPENLink-purple?style=flat)
 ![Rhapsody](https://img.shields.io/badge/Rhapsody-orange?style=flat)
