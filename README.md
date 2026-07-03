@@ -52,7 +52,7 @@
 
 #### 🤖 Other Skills
 ![AI](https://img.shields.io/badge/AI-purple?style=flat)
-![ML](https://img.shields.io/badge/ML-green?style=flat)
+![ML](https://img.shields.io/badge/ML-green?style=flat) (Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow/Keras, Spyder IDE, Jupyter Notebook, Anaconda)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=flat)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-darkred?style=flat)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-teal?style=flat)
