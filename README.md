@@ -8,6 +8,7 @@
 #### 🏥 Healthcare Informatics
 ![HL7](https://img.shields.io/badge/HL7-blue?style=flat)
 ![FHIR](https://img.shields.io/badge/FHIR-green?style=flat)
+![JSON](https://img.shields.io/badge/JSON-black?style=flat)
 ![OPENLink](https://img.shields.io/badge/OPENLink-purple?style=flat)
 ![Rhapsody](https://img.shields.io/badge/Rhapsody-orange?style=flat)
 ![Odin](https://img.shields.io/badge/Odin-darkgreen?style=flat)
@@ -22,8 +23,6 @@
 ![C](https://img.shields.io/badge/C-blue?style=flat)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat)
 ![C#](https://img.shields.io/badge/C%23-purple?style=flat)
-![PHP](https://img.shields.io/badge/PHP-indigo?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat)
 
 #### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=flat)
@@ -36,7 +35,8 @@
 #### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat)
-![JSON](https://img.shields.io/badge/JSON-black?style=flat)
+![PHP](https://img.shields.io/badge/PHP-indigo?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat)
 ![XML](https://img.shields.io/badge/XML-orange?style=flat)
 
