@@ -52,7 +52,7 @@
 
 #### 🤖 Other Skills
 ![AI](https://img.shields.io/badge/AI-purple?style=flat)
-![ML](https://img.shields.io/badge/ML-green?style=flat)![Scikit-learn](...)
+![ML](https://img.shields.io/badge/ML-green?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=flat)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-darkred?style=flat)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-teal?style=flat)
