@@ -9,6 +9,7 @@
 ![HL7](https://img.shields.io/badge/HL7-blue?style=flat)
 ![FHIR](https://img.shields.io/badge/FHIR-green?style=flat)
 ![JSON](https://img.shields.io/badge/JSON-black?style=flat)
+![SOAP](https://img.shields.io/badge/SOAP-grey?style=flat)
 ![OPENLink](https://img.shields.io/badge/OPENLink-purple?style=flat)
 ![Rhapsody](https://img.shields.io/badge/Rhapsody-orange?style=flat)
 ![Odin](https://img.shields.io/badge/Odin-darkgreen?style=flat)
@@ -44,7 +45,6 @@
 ![Windows](https://img.shields.io/badge/Windows-blue?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat)
 ![Unix](https://img.shields.io/badge/Unix-grey?style=flat)
-![SOAP](https://img.shields.io/badge/SOAP-grey?style=flat)
 
 #### ☁️ Cloud & Network
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
