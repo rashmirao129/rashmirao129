@@ -24,7 +24,6 @@
 ![C#](https://img.shields.io/badge/C%23-purple?style=flat)
 ![PHP](https://img.shields.io/badge/PHP-indigo?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat)
-![XML](https://img.shields.io/badge/XML-orange?style=flat)
 
 #### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=flat)
@@ -39,6 +38,7 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat)
 ![JSON](https://img.shields.io/badge/JSON-black?style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat)
+![XML](https://img.shields.io/badge/XML-orange?style=flat)
 
 #### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-blue?style=flat)
