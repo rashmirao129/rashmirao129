@@ -67,6 +67,10 @@
 
 ### 🎓 Education
 - 🎓 **MCA** (Computer Science) — NMAMIT, Nitte – Udupi (2022) | 8.8/10
+- NMAM Institute of Technology (NMAMIT), Nitte - Udupi (2022) MCA (Computer Science): 8.8/10 
+Relevant Modules: AI & Machine Learning · Cloud Computing & Big Data Analytics · Computer 
+Networks · Data Warehousing & Data Mining · Cyber Security · Mobile Computing & Application 
+Development · Enterprise Java ·Advanced Web Technologies · Operating Systems with Unix 
 - 🎓 **BCA** (Computer Science) — Vijaya College, Mulki - Mangalore (2020) | 83.14%
 - 🎓 **PUC** (Computer Science) — Vijaya College PU, Mulki - Mangalore (2017) | 92.5%
 - 🎓 **SSLC** — Ganapati High School, Padubidri - Udupi (2015) | 87.52%
