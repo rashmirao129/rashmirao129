@@ -109,6 +109,8 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:rashmirao129@gmail.com)
 ### 🏆 Coding Profile
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rashmirao129)
+### 📝 Technical Blog
+[![Tech Explorer](https://img.shields.io/badge/Tech%20Explorer-Technical%20Blog-blue?style=flat&logo=blogger&logoColor=white)](https://rashmi-rao-tech-explorer.blogspot.com/)
 <!--
 **rashmirao129/rashmirao129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
